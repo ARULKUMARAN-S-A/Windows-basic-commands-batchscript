@@ -56,7 +56,7 @@ echo “hello world” > hello.txt
 
 type hello.txt
 
-[text](hello.txt)
+![alt text](<img/Screenshot 2025-10-24 231400.png>)
 
 Copy the file hello.txt into the file hello1.txt
 
